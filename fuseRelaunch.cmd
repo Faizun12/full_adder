@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/VLSI_assignments/full_adder/tb_full_adder_isim_beh.exe" -prj "/home/ise/VLSI_assignments/full_adder/tb_full_adder_beh.prj" "work.tb_full_adder" 

@@ -1,0 +1,29 @@
+Command line:
+   nand_gate_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  45033
+
+Fri Oct  2 10:06:26 2026
+
+
+ Elaboration Time: 0.13 sec
+
+ Current Memory Usage: 215.261 Meg
+
+ Total Signals          : 6
+ Total Nets             : 3
+ Total Signal Drivers   : 3
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 363
+Total Line Count : 7
+
+ Total Simulation Time: 0.16 sec
+
+ Current Memory Usage: 292.86 Meg
+
+Fri Oct  2 10:08:20 2026
+
